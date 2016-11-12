@@ -1,0 +1,54 @@
+body
+{background:yellow; }
+.name
+{
+
+ border: 1px solid black; 
+ display: inline;
+ margin-left: 300px;
+  
+}
+
+
+p
+{color:green;}
+
+
+
+.landing-header
+{
+    position: relative;
+    margin: 64px auto;
+    padding: 0 20px;
+    max-width: 1024px;
+}
+
+.landing-header .logo-anchor
+{
+    display: inline-block;
+}
+
+.landing-header .logo-image
+{
+    vertical-align: bottom;
+}
+
+.landing-header .menu
+{
+    float: right;
+    margin-top: 22px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.landing-header .menu .menu-item
+{
+    margin: 0 8px;
+    font-weight: 700;
+
+}
+
+.landing-header .menu .menu-item:hover
+{
+    text-decoration: underline;
+}
